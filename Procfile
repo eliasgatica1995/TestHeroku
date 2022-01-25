@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar app.jar
+web: java -jar build/libs/controlleradvice-0.0.1-SNAPSHOT.jar
